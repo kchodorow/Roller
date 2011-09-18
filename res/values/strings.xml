@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attack_name">Attack #1</string>
+    <string name="die_size">d20</string>
+    <string-array name="dice_array">
+        <item>d20</item>
+        <item>d12</item>
+        <item>d10</item>
+        <item>d8</item>
+        <item>d6</item>
+        <item>d4</item>
+    </string-array>
+    <string name="roll">Roll</string>
+    <string name="save">Save</string>
+    <string name="app_name">RPGRoller</string>
+</resources>
